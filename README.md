@@ -1,23 +1,70 @@
-Olá! Eu sou a Pollyana 👋
 
-Sobre mim
+<div align="center">
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como vendedora, experiência que contribui para o desenvolvimento da minha comunicação, responsabilidade e capacidade de lidar com diferentes situações.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10152B,50:423078,100:8B5CF6&height=180&section=header&text=Pollyana%20Silvia&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=14" width="100%" alt="Banner Pollyana Silvia" />
 
-Tenho interesse em desenvolvimento Front-End e busco aprimorar meus conhecimentos em tecnologia, desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
+</div>
 
-🚀 Habilidades e tecnologias
+## 👩🏻‍💻 Sobre mim
 
-* HTML e CSS: estruturação e estilização de páginas web.
-* JavaScript: fundamentos de programação e interatividade web.
-* Linguagem C: fundamentos de lógica de programação e algoritmos.
-* SQL e MySQL: fundamentos de bancos de dados.
+Sou estudante de Análise e Desenvolvimento de Sistemas, interessada em tecnologia e em desenvolver meus conhecimentos por meio de estudos e projetos acadêmicos.
 
-📚 Projetos acadêmicos
+## 🛠️ Linguagens e tecnologias
 
-* Desenvolvimento Front-End: projeto acadêmico utilizando CSS e JavaScript, com foco na criação e estilização de interfaces web.
-* Modelagem de Banco de Dados: projeto acadêmico em grupo envolvendo entidades, atributos, relacionamentos, cardinalidades e estruturação de tabelas.
+<div align="center">
 
-🎯 Objetivo profissional
+<img src="https://skillicons.dev/icons?i=html,css,js,c,mysql&theme=dark" alt="HTML, CSS, JavaScript, C e MySQL" />
 
-Meu objetivo é me desenvolver na área de Front-End, aprofundar meus conhecimentos em tecnologias web e criar interfaces que unam funcionalidade, criatividade, design e uma boa experiência para os usuários.
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pollyana-123&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pollyana-123&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+
+</div>
+
+---
+
+## 📂 Projetos acadêmicos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Desenvolvimento Front-End
+
+Projeto acadêmico com CSS e JavaScript, voltado à criação e estilização de interfaces web.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Modelagem de Banco de Dados
+
+Projeto em grupo envolvendo entidades, atributos, relacionamentos, cardinalidades e estruturação de tabelas.
+
+**Tecnologias:** SQL e MySQL.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Objetivo profissional
+
+Continuar aprendendo, desenvolver minhas habilidades técnicas e construir uma trajetória profissional na área de tecnologia.
+
+<div align="center">
+
+*Em constante aprendizado e evolução.* 💜
+
+</div>
+
