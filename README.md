@@ -1,31 +1,22 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10152B,50:423078,100:8B5CF6&height=180&section=header&text=Pollyana%20Silvia&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=14" width="100%" alt="Banner Pollyana Silvia" />
+# Pollyana Silvia
 
 </div>
 
+<hr />
+
 ## 👩🏻‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, interessada em tecnologia e em desenvolver meus conhecimentos por meio de estudos e projetos acadêmicos.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como vendedora, experiência que contribui para o desenvolvimento da minha comunicação, responsabilidade e capacidade de lidar com diferentes situações.
+
+Tenho interesse em desenvolvimento Front-End e busco aprimorar meus conhecimentos em tecnologia, desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
 
 ## 🛠️ Linguagens e tecnologias
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql&theme=dark" alt="HTML, CSS, JavaScript, C e MySQL" />
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pollyana-123&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pollyana-123&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 
 </div>
 
@@ -64,7 +55,8 @@ Continuar aprendendo, desenvolver minhas habilidades técnicas e construir uma t
 
 <div align="center">
 
-*Em constante aprendizado e evolução.* 💜
+*Em constante aprendizado e evolução.*
 
 </div>
+
 
