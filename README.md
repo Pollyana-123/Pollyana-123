@@ -8,7 +8,9 @@
 
 ## Sobre mim
 
- Sou estudante de Análise e Desenvolvimento de Sistema, na Universidade Positivo, tenho 23 anos e moro em Curitiba-PR. Sou apaixonada por tecnologia e tenho interesse em desenvolvimento Front-End, busco aprimorar meus conhecimentos em desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo, tenho 23 anos e moro em Curitiba (PR). Sou apaixonada por tecnologia e tenho interesse em desenvolvimento Front-End.
+
+Busco aprimorar meus conhecimentos, desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
 
 ## Linguagens e tecnologias
 
