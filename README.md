@@ -57,6 +57,4 @@ Busco construir uma trajetória profissional que me permita explorar diferentes 
 
 <div align="center">
 
-*Em constante aprendizado e evolução.*
-
 </div>
