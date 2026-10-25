@@ -1,6 +1,6 @@
 Olá! Eu sou a Pollyana 👋
 
-👩🏻‍💻 Sobre mim
+Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como vendedora, experiência que contribui para o desenvolvimento da minha comunicação, responsabilidade e capacidade de lidar com diferentes situações.
 
