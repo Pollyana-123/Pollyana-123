@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá! Eu sou a Pollyana 👋
 
-<!--
-**Pollyana-123/Pollyana-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como vendedora, experiência que contribui para o desenvolvimento da minha comunicação, responsabilidade e capacidade de lidar com diferentes situações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em desenvolvimento Front-End e busco aprimorar meus conhecimentos em tecnologia, desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
+
+🚀 Habilidades e tecnologias
+
+* HTML e CSS: estruturação e estilização de páginas web.
+* JavaScript: fundamentos de programação e interatividade web.
+* Linguagem C: fundamentos de lógica de programação e algoritmos.
+* SQL e MySQL: fundamentos de bancos de dados.
+
+📚 Projetos acadêmicos
+
+* Desenvolvimento Front-End: projeto acadêmico utilizando CSS e JavaScript, com foco na criação e estilização de interfaces web.
+* Modelagem de Banco de Dados: projeto acadêmico em grupo envolvendo entidades, atributos, relacionamentos, cardinalidades e estruturação de tabelas.
+
+🎯 Objetivo profissional
+
+Meu objetivo é me desenvolver na área de Front-End, aprofundar meus conhecimentos em tecnologias web e criar interfaces que unam funcionalidade, criatividade, design e uma boa experiência para os usuários.
