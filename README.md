@@ -8,9 +8,7 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como vendedora, experiência que contribui para o desenvolvimento da minha comunicação, responsabilidade e capacidade de lidar com diferentes situações.
-
-Tenho interesse em desenvolvimento Front-End e busco aprimorar meus conhecimentos em tecnologia, desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
+ Sou estudante de Análise e Desenvolvimento de Sistema, na Universidade Positivo, tenho 23 anos e moro em Curitiba-PR. Sou apaixonada por tecnologia e tenho interesse em desenvolvimento Front-End, busco aprimorar meus conhecimentos em desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
 
 ## Linguagens e tecnologias
 
