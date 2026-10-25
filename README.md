@@ -6,13 +6,13 @@
 
 <hr />
 
-## 👩🏻‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como vendedora, experiência que contribui para o desenvolvimento da minha comunicação, responsabilidade e capacidade de lidar com diferentes situações.
 
 Tenho interesse em desenvolvimento Front-End e busco aprimorar meus conhecimentos em tecnologia, desenvolver minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Estou no início da minha trajetória na área e quero continuar aprendendo, explorando possibilidades e construindo minha carreira profissional.
 
-## 🛠️ Linguagens e tecnologias
+## Linguagens e tecnologias
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Tenho interesse em desenvolvimento Front-End e busco aprimorar meus conhecimento
 
 ---
 
-## 📂 Projetos acadêmicos
+## Projetos acadêmicos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Desenvolvimento Front-End
+### Desenvolvimento Front-End
 
 Projeto acadêmico com CSS e JavaScript, voltado à criação e estilização de interfaces web.
 
@@ -37,7 +37,7 @@ Projeto acadêmico com CSS e JavaScript, voltado à criação e estilização de
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Modelagem de Banco de Dados
+### Modelagem de Banco de Dados
 
 Projeto em grupo envolvendo entidades, atributos, relacionamentos, cardinalidades e estruturação de tabelas.
 
@@ -49,14 +49,14 @@ Projeto em grupo envolvendo entidades, atributos, relacionamentos, cardinalidade
 
 ---
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
-Continuar aprendendo, desenvolver minhas habilidades técnicas e construir uma trajetória profissional na área de tecnologia.
+Meu objetivo é aprofundar meus conhecimentos em tecnologia, aprimorar minhas habilidades técnicas e adquirir experiência por meio de projetos práticos. Quero ampliar meu domínio das linguagens de programação, desenvolver minha capacidade de resolver problemas e aprender novas ferramentas utilizadas no mercado de trabalho.
+
+Busco construir uma trajetória profissional que me permita explorar diferentes possibilidades na área de tecnologia, participar de projetos desafiadores e transformar meus conhecimentos em soluções úteis. Pretendo continuar aprendendo e evoluindo para conquistar oportunidades profissionais e consolidar minha carreira na área de desenvolvimento de sistemas.
 
 <div align="center">
 
 *Em constante aprendizado e evolução.*
 
 </div>
-
-
